@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="eclipseVersion" value="ECLIPSE_44" />
+        <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1479375172222" />
+        <option name="importOrdering" value="ECLIPSE_44" />
+        <option name="name" value="default" />
+        <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../../develop/gp-idea/conf/TeamGP_Formatter.xml" />
+        <option name="selectedJavaProfile" value="TeamGP" />
+        <option name="useOldEclipseJavaFormatter" value="true" />
+      </Settings>
+    </option>
+  </component>
+</project>
